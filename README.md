@@ -3,7 +3,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 Website Demo: https://app-food-tomato.netlify.app/
 
-Features:
+Features
 User Panel
 Admin Panel
 JWT Authentication
