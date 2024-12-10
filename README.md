@@ -3,34 +3,35 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 Website Demo: https://app-food-tomato.netlify.app/
 
-Features
-User Panel
-Admin Panel
-JWT Authentication
-Password Hashing with Bcrypt
-Stripe Payment Integration
-Login/Signup
-Logout
-Add to Cart
-Place Order
-Order Management
-Products Management
-Filter Food Products
-Login/Signup
-Authenticated APIs
-REST APIs
-Role-Based Identification
-Beautiful Alerts
+Features:
+User Panel,
+Admin Panel,
+JWT Authentication,
+Password Hashing with Bcrypt,
+Stripe Payment Integration,
+Login/Signup,
+Logout,
+Add to Cart,
+Place Order,
+Order Management,
+Products Management,
+Filter Food Products,
+Login/Signup,
+Authenticated APIs,
+REST APIs,
+Role-Based Identification,
+Beautiful Alerts,
 
 Tech Stack:
-React
-Node.js
-Express.js
-Mongodb
-Stripe
-JWT-Authentication
-Multer
-Deployment
+React,
+Node.js,
+Express.js,
+Mongodb,
+Stripe,
+JWT-Authentication,
+Multer,
+Deployment,
+
 The application is deployed on Render.
 
 Contributing:
